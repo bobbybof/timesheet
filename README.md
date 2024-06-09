@@ -8,8 +8,8 @@ http://158.140.167.180:43075/
     ```
 - pull submodules
     ```
-    git init
-    git update
+    git submodule init
+    git submodule update
     ```
 ### Backend
 #### Prerequisite
