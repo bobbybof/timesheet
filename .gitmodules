@@ -1,0 +1,6 @@
+[submodule "timesheet-backend"]
+	path = timesheet-backend
+	url = https://github.com/bobbybof/timesheet-backend.git
+[submodule "timesheet-frontend"]
+	path = timesheet-frontend
+	url = https://github.com/bobbybof/timesheet-frontend.git
