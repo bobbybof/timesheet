@@ -20,6 +20,12 @@ http://158.140.167.180:43075/
     ```
     go install github.com/cosmtrek/air@latest
     ```
+#### Api Collections
+- Bruno
+ if you have installed [Bruno](https://github.com/usebruno/bruno) in your machine, you can import the `timsheet-backend/` collection
+- Postman
+if you have installed [Postman](https://www.postman.com/downloads/) in your machine, you can import the `timsheet-backend/timesheet_postman.json` collection
+
 #### Runing
 1. if you already adjust `.env` you can run 
     ```
